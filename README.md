@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="./wizard.gif" width="30%"/></br>
+  <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/wizard.gif" width="30%"/></br>
 </p>
 
 
@@ -46,6 +46,6 @@
 
 
 <p align="center">
-  <img src="./thumbs-up.gif" width="30%"/></br>
+  <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/thumbs-up.gif" width="30%"/></br>
   <mark align="center"><b>Thanks for visiting! 👋</b></mark>
 </p>
