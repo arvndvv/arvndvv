@@ -13,8 +13,9 @@
 <a href="#"><img alt="Also Known As" src="https://img.shields.io/endpoint?color=orange&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Faka"/></a>
 </p>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/github/followers/arvndvv?label=Followers&style=social"/></a></br>
-<a href="https://in.linkedin.com/in/arvndvv"><img src="https://img.shields.io/badge/LinkedIn-arvndvv-blue"/></a>
+<a href="https://in.linkedin.com/in/arvndvv"><img src="https://img.shields.io/endpoint?logo=linkedin&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Flinkedin"/></a>
+<a href="https://www.instagram.com/arvndvv/"><img src="https://img.shields.io/endpoint?logo=instagram&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Finsta"/></a><br/>
+<a href="#"><img src="https://img.shields.io/github/followers/arvndvv?label=Followers&style=social"/></a>
 </p>
 
 
