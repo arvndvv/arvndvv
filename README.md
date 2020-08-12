@@ -1,6 +1,7 @@
 
 <p align="center">
-<a href="#"><img src="./wizard.gif" width="30%"/></a></br>
+<a href="#"><img src="
+https://miro.medium.com/fit/c/128/128/2*kjPLlG6n3JemBdtCwuXCuw.jpeg" /></a></br>
   <b font-size="14px" font-weight="bold">Aravind V V</b>
 </p>
 
@@ -11,6 +12,12 @@
 <a href="#"><img src="https://img.shields.io/badge/-Python-blue"/></a>
 </br>
 <a href="#"><img alt="Also Known As" src="https://img.shields.io/endpoint?color=orange&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Faka"/></a>
+</p>
+
+
+<p align="center">
+  <img src="./wizard.gif" width="30%"/></br>
+  <mark align="center"><b>Hola Amigos 👋</b></mark>
 </p>
 
 
