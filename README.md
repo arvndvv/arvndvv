@@ -19,7 +19,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvndvv&layout=compact&hide=html" alt="toplangs"/>
 </p>
 
-<h4 align="center">Current Status: <i>Main Focus</i> </h4>
+<h4 align="center">Current Status: <i>Learning</i> </h4>
 <p align="center">
 <img width="40px" src="https://secrethub.io/img/nodejs.svg"/></p>
 
