@@ -27,18 +27,7 @@
   <summary><b>About</b></summary>
   <p>I like Tech. Batman <img src="https://art.pixilart.com/2472449368bf921.png" width="60px" height="60px"/> and Ironman <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="80px" height="80px"/> Inspires me! well not the story but their tech (Yeah! I know its pure fiction). Right now I am focusing on web development, more fields are there in my list to explore, one among the prioritised field is cyber security.</p>
 </details>
-<details>
-  
-  <summary><b>Skills</b></summary><pre>
-  - <b>Python</b>         - [x][x][x][ ][ ]
-  - <b>Front End</b>      - [x][x][x][x][ ]
-  - <b>Full Stack</b>     - [x][x][x][ ][ ]
-  - <b>UI/UX</b>          - [x][x][x][x][ ]
-  - <b>Graphic Design</b> - [x][x][x][x][ ]
-  - <b>Cyber Security</b> - [x][x][ ][ ][ ]
-  </pre>
-</details>
-<details>
+
   <summary><b>Social</b></summary><br/>
  <a href="https://in.linkedin.com/in/arvndvv"><img src="https://img.shields.io/endpoint?logo=linkedin&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Flinkedin"/></a>
 <a href="https://www.instagram.com/arvndvv/"><img src="https://img.shields.io/endpoint?logo=instagram&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Finsta"/></a>
