@@ -1,12 +1,12 @@
 
 <p align="center">
-<a href="#"><img src="https://miro.medium.com/fit/c/128/128/2*kjPLlG6n3JemBdtCwuXCuw.jpeg" /></a></br>
+<a href="#"><img src="./me-smile.png" width='200px'/></a></br>
   <b font-size="14px" font-weight="bold">Aravind V V</b>
 </p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-Full%20Stack-b"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-orange"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Angular-b"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-React-orange"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-UI%2FUX-blueviolet"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Python-blue"/></a>
 </br>
