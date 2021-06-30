@@ -21,7 +21,7 @@
 
 <h4 align="center">Current Status: <i>Learning</i> </h4>
 <p align="center">
-<img width="40px" src="https://secrethub.io/img/nodejs.svg"/></p>
+<img width="40px" src="./react.png"/></p>
 
 <details>
   <summary><b>About</b></summary>
@@ -38,6 +38,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/thumbs-up.gif" width="30%"/></br>
+  <img src="./thanks.png" width="30%"/></br>
   <mark align="center"><b>Thanks for visiting! 👋</b></mark>
 </p>
