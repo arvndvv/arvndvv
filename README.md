@@ -32,10 +32,9 @@
  -->
  <h3>Social</h3><br/>
  <a href="https://in.linkedin.com/in/arvndvv"><img src="https://img.shields.io/endpoint?logo=linkedin&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Flinkedin&style=flat-square"/></a>
-<a href="https://www.instagram.com/aravind.v.v/"><img src="https://img.shields.io/endpoint?logo=instagram&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Finsta"/></a>
-<a href="https://arvndvv.github.io/"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Fportfolio"/></a>
- <a href="https://medium.com/@aravindvv"><img src="https://img.shields.io/endpoint?logo=medium&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Fmedium"/></a>
-<a href="https://www.sololearn.com/Profile/3489946"><img src="https://img.shields.io/endpoint?logo=sololearn&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Fsololearn"/></a><br/>
+<a href="https://www.instagram.com/arvndvv/"><img src="https://img.shields.io/endpoint?logo=instagram&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Finsta"/></a>
+<a href="https://arvnd.in/"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Fportfolio"/></a>
+ <a href="https://medium.com/@aravindvv"><img src="https://img.shields.io/endpoint?logo=medium&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Fmedium"/></a><br/>
 
 
 
