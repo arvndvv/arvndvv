@@ -8,7 +8,6 @@
 <a href="#"><img src="https://img.shields.io/badge/-Angular-b"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-React-orange"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-UI%2FUX-blueviolet"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Python-blue"/></a>
 </br>
 <a href="#"><img alt="Also Known As" src="https://img.shields.io/endpoint?color=orange&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Farvndvv%2Farvndvv%2Fmaster%2Faka"/></a>
 </p>
