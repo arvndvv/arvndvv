@@ -24,7 +24,8 @@
 
 
  <h3 style="margin-bottom:0">About</h3>
-  <p>I like Tech. Batman <img src="https://art.pixilart.com/2472449368bf921.png" width="60px" height="60px"/> and Ironman <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="80px" height="80px"/> Inspires me! well not the story but their tech (Yeah! I know its pure fiction). At the moment, I am focusing on web development, more fields are there in my list to explore.</p>
+  <p>A Web crafter. I like to make the web world beautiful. Crafting with atmost care, efficiency and scalability in mind.</p>
+  <a href="https://in.linkedin.com/in/arvndvv">Check My Website</a>
 <!--  <h3>GitHub Trophies</h3>
 <img src = "https://github-profile-trophy.vercel.app/?username=arvndvv&theme=onedark" alt="trophies">
 <h3>GitHub Streak</h3>
