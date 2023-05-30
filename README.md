@@ -20,7 +20,7 @@
 
 <h4 align="center">Current Status: <i>Learning</i> </h4>
 <p align="center">
-<img width="40px" src="./react.png"/></p>
+<!-- <img width="40px" src="./react.png"/></p> -->
 
 
  <h3 style="margin-bottom:0">About</h3>
