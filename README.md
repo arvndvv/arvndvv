@@ -25,7 +25,7 @@
 
  <h3 style="margin-bottom:0">About</h3>
   <p>A Web crafter. I like to make the web world beautiful. Crafting with atmost care, efficiency and scalability in mind.</p>
-  <a href="https://in.linkedin.com/in/arvndvv">Check My Website</a>
+  <a href="https://arvnd.in">Check My Website</a>
 <!--  <h3>GitHub Trophies</h3>
 <img src = "https://github-profile-trophy.vercel.app/?username=arvndvv&theme=onedark" alt="trophies">
 <h3>GitHub Streak</h3>
