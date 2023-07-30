@@ -18,7 +18,7 @@
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvndvv&layout=compact&hide=html&theme=dark&show_icons=true" alt="toplangs"/> -->
 </p>
 
-<h4 align="center">Current Status: <i>Learning</i> </h4>
+<h4 align="center">Current Status: <i>Building</i> </h4>
 <p align="center">
 <!-- <img width="40px" src="./react.png"/></p> -->
 
