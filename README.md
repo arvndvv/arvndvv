@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://webarv.com"><img src="https://img.shields.io/badge/-WebArv-0a66c2?style=for-the-badge&logo=appveyor"/></a>
-  <a href="https://portloom.com"><img src="https://img.shields.io/badge/-Port%20Loom-f97316?style=for-the-badge&logo=react"/></a>
+  <a href="https://portloom.com"><img src="https://img.shields.io/badge/-PortLoom-f97316?style=for-the-badge&logo=react"/></a>
 </p>
 
 ---
