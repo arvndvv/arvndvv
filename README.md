@@ -17,7 +17,7 @@
 - **Web Developer** with expertise in **React, Next.js, Angular, and UI/UX**.
 - Passionate about **creating scalable and visually appealing web applications**.
 - Founder of **[WebArv](https://webarv.com)** – a hub for innovative web projects.
-- Creator of **[Port Loom](https://portloom.com)** – a portfolio builder with customizable templates.
+- Creator of **[PortLoom](https://portloom.com)** – a portfolio builder with customizable templates.
 - Enthusiast in **AI-powered development, psychology, and human behavior**.
 - Check out my portfolio: **[arvnd.in](https://arvnd.in)**
 
@@ -52,7 +52,7 @@
 
 🚀 **[WebArv](https://webarv.com)** – A platform showcasing innovative web projects, featuring a **Next.js-powered blog with interactive features**.
 
-🛠️ **[Port Loom](https://portloom.com)** – A **portfolio builder** offering beautifully crafted templates for developers and designers.
+🛠️ **[PortLoom](https://portloom.com)** – A **portfolio builder** offering beautifully crafted templates for developers and designers.
 
 ---
 
