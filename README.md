@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://webarv.com"><img src="https://img.shields.io/badge/-WebArv-0a66c2?style=for-the-badge&logo=appveyor"/></a>
+  <a href="https://webarv.com"><img src="https://img.shields.io/badge/-Webarv-0a66c2?style=for-the-badge&logo=appveyor"/></a>
   <a href="https://portloom.com"><img src="https://img.shields.io/badge/-PortLoom-f97316?style=for-the-badge&logo=react"/></a>
 </p>
 
@@ -19,7 +19,7 @@
 
 - **Web Developer** with expertise in **React, Next.js, Angular, and UI/UX**.
 - Passionate about **creating scalable and visually appealing web applications**.
-- Founder of **[WebArv](https://webarv.com)** – a hub for innovative web projects.
+- Founder of **[Webarv](https://webarv.com)** – a hub for innovative web projects.
 - Creator of **[PortLoom](https://portloom.com)** – a portfolio builder with customizable templates.
 - Enthusiast in **AI-powered development, psychology, and human behavior**.
 - Check out my portfolio: **[arvnd.in](https://arvnd.in)**
@@ -62,11 +62,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">WebArv</h3>
+      <h3 align="center">Webarv</h3>
       <br />
       <p align="center">
         <a href="https://webarv.com" target="_blank">
-          <img src="https://img.shields.io/badge/WEBSITE-0a66c2?style=for-the-badge&logo=react&logoColor=white" alt="WebArv"/>
+          <img src="https://img.shields.io/badge/WEBSITE-0a66c2?style=for-the-badge&logo=react&logoColor=white" alt="Webarv"/>
         </a>
       </p>
       <p align="center">
